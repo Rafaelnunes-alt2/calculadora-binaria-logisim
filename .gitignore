@@ -1,0 +1,7 @@
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
+# Logisim backups
+*.bak
+*~
