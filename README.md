@@ -100,6 +100,17 @@ Exemplo: S0 e S2 acesos = 1 + 4 = **5**.
 - Subtração via complemento de dois
 - Registrador pra armazenar o último resultado
 
+## Screenshots
+
+### Half Adder
+![Half Adder](images/half-adder.png)
+
+### Full Adder
+![Full Adder](images/full-adder.png)
+
+### Calculadora Completa (5 bits)
+![Calculadora](images/calculadora.png)
+
 ## Autor
 
 Rafael Nunes — [@Rafaelnunes-alt2](https://github.com/Rafaelnunes-alt2)
